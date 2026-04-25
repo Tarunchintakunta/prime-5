@@ -43,7 +43,7 @@ const COURSES: Course[] = [
     rating: 4.8,
     gradient: "from-rose-400 via-orange-400 to-amber-500",
     glyph: "◇",
-    image: UNSPLASH("photo-1561070791-2526d30994b8"),
+    image: UNSPLASH("photo-1581291518857-4e27b48ff24e"),
   },
   {
     title: "Machine Learning Foundations",
